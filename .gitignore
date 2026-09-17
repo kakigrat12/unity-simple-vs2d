@@ -1,0 +1,38 @@
+# Unity generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Generated IDE files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# Photon configuration and credentials
+PhotonServerSettings.asset
+**/PhotonServerSettings.*
+
+# OS/editor noise
+.DS_Store
+._*
+Thumbs.db
+
+# This repository intentionally omits Unity metadata and non-code assets
+*.meta
